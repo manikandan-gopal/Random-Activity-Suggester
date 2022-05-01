@@ -1,0 +1,6 @@
+framework module Pods_Random_Activity_Suggester {
+  umbrella header "Pods-Random Activity Suggester-umbrella.h"
+
+  export *
+  module * { export * }
+}
